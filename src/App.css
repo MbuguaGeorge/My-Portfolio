@@ -17,6 +17,7 @@
     color: white;
     text-align: center;
     padding: 20px;
+    overflow-y: hidden;
 }
 
 .home h5{
@@ -39,8 +40,9 @@
   font-size: 3rem;
   font-weight: 200;
   color: #deaa86;
-  margin-bottom: 20px;
+  margin-bottom: 0;
   padding: 30px;
+  margin-top: 0;
 }
 .about-left h2{
   font-family: 'Josefin Sans', sans-serif;
@@ -81,6 +83,7 @@
 }
 .about ul{
   list-style: none;
+  margin-bottom: 30px;
 }
 .about-left li,
 .about-center li,
